@@ -1,0 +1,18 @@
+@import "variables.css";
+@import "wrapper.css";
+@import "header.css";
+@import "nav.css";
+@import "buttons.css";
+@import "topic-1.css";
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+}

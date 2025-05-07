@@ -1,0 +1,22 @@
+.wrapper{
+    width: 100%;
+    max-width: 1130px;
+    height: auto;
+    border: 1px solid red;
+
+
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-button{
+    display: flex;
+    align-items: center;
+}
+
+.topic-1__wrapper{
+    width: 100%;
+    max-width: 525px;
+    border: mediumpurple 1px solid;
+}
+

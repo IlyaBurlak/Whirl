@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+}
+
+.nav__list{
+    display: flex;
+}
+
+.list__item{
+    display: flex;
+    align-items: center;
+    margin: 0 30px 0 0;
+
+    color: #33383F;
+}

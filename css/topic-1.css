@@ -1,0 +1,29 @@
+.topic-1{
+    display: flex;
+    justify-content: space-between;
+    width: 1130px;
+    margin: 70px auto;
+}
+
+.topic__header{
+    font-size: 58px;
+    font-family: Fraunces;
+    color: #1F1F1F;
+
+
+    margin: 0 0 21px 0;
+}
+
+.topic__content{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Inter, sans-serif;
+    color: #1F1F1F;
+
+
+    margin: 0 0 29px 0;
+}
+
+.topic__buttons{
+    display: flex;
+}
